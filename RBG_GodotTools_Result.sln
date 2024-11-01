@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBG_GodotTools_Result", "RBG_GodotTools_Result\RBG_GodotTools_Result.csproj", "{8F0ADBE1-6E86-43F5-8734-6A5CA948CD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBG_GodotTools_Result.Tests", "RBG_GodotTools_Result.Tests\RBG_GodotTools_Result.Tests.csproj", "{57880456-932E-4C01-BCF5-0B177A8A5E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0ADBE1-6E86-43F5-8734-6A5CA948CD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0ADBE1-6E86-43F5-8734-6A5CA948CD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0ADBE1-6E86-43F5-8734-6A5CA948CD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0ADBE1-6E86-43F5-8734-6A5CA948CD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57880456-932E-4C01-BCF5-0B177A8A5E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57880456-932E-4C01-BCF5-0B177A8A5E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57880456-932E-4C01-BCF5-0B177A8A5E4F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{57880456-932E-4C01-BCF5-0B177A8A5E4F}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
